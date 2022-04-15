@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../sass/mane.scss"
+    ],
+    "names": [],
+    "file": "mane.min.css"
+}
